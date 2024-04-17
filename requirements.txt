@@ -1,0 +1,3 @@
+
+# Example requirements.txt for a basic Snake game
+pygame==2.1.2
